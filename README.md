@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm Lucas Joviniano
 
------------
-
-## I'm a Computer Science student at Federal University of Viçosa.
+### I'm a Computer Science student at Federal University of Viçosa.
 
 I'm passionate about development for social good and Open Source. Also, I'm a founding member of [Open Source Lab UFV](https://github.com/OpenSourceLabUFV) a extension project for popularizing Open Source at my college.
 
