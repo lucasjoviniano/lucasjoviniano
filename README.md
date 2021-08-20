@@ -28,7 +28,7 @@ Besides from work, I'm also interested in movies, music, politics and a handful 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasjoviniano1@gmail.com)
 [![Instagram](https://img.shields.io/badge/lucas.joviniano-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucas.joviniano/)
-[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lucasjoviniano)
+[![Twitter](https://img.shields.io/badge/lucasjoviniano-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lucasjoviniano)
 
 <!--
 <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="250" height="194"/> ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjoviniano&show_icons=true)
