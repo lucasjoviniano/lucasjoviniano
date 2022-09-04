@@ -4,7 +4,7 @@
 
 I'm passionate about development for social good and Open Source. Also, I'm a founding member of [Open Source Lab UFV](https://github.com/OpenSourceLabUFV) a extension project for popularizing Open Source at my college.
 
-Besides from work, I'm also interested in movies, music, politics and a handful of other things. So, if you wanna know more or contact me, you can do it on [my website](http://lucasjoviniano.me/).
+Besides from work, I'm also interested in movies, music, politics and a handful of other things. So, if you wanna know more or contact me, you can do it on [my website](http://lucasjoviniano.github.io/).
 
 ## Technologies I Use
 
